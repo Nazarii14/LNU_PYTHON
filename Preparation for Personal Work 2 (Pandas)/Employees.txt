@@ -1,0 +1,6 @@
+Surname,Reg Number,Pay Per Hour
+Zelenko, 2097324870, 35
+Borovets, 5479347498, 55
+Kaparys, 9873450825, 36
+Masnyk, 3455398476, 40
+Zhenchenko, 4758697045, 60
